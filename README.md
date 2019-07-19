@@ -1,7 +1,7 @@
 # Pert---Critical-Path
 The Pert program (at least this one) is supposed to show how much time can we save
 (when we cut some activities' duration), with given different activities and different durations.
-Before reviewing the program, I would like to mention a few variables I used:
+<br><br>Before reviewing the program, I would like to mention a few variables I used:
 Left_value: the node's earliest completion time
 Right_value: the node's latest completion time
 Activities: were represented (also by) a "node_from" and a "node_to".
