@@ -10,4 +10,7 @@ Priority: an activity which it's node_from has to be made before it's Node_to's
 
 The photo that I was working with (and also explains a bit) is this one:
 
-![alt text](https://drive.google.com/open?id=1r4t3BPQ9RSK8PuNOgKk6G7c6bgO5uVex)
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://drive.google.com/open?id=1r4t3BPQ9RSK8PuNOgKk6G7c6bgO5uVex "PERT.jpg"
