@@ -11,6 +11,6 @@ Priority: an activity which it's node_from has to be made before it's Node_to's
 The photo that I was working with (and also explains a bit) is this one:
 
 Reference-style: 
-![alt text][logo]
+![][logo]
 
-[logo]: https://drive.google.com/open?id=1r4t3BPQ9RSK8PuNOgKk6G7c6bgO5uVex "PERT.jpg"
+[logo]: https://drive.google.com/open?id=1r4t3BPQ9RSK8PuNOgKk6G7c6bgO5uVex
