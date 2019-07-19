@@ -9,4 +9,6 @@ Children_dictionary: each key represents a node name and each value represents a
 Priority: an activity which it's node_from has to be made before it's Node_to's
 
 The photo that I was working with (and also explains a bit) is this one:
-![][logo]: https://github.com/omersch381/Pert---Critical-Path/blob/master/PERT.JPG
+![][logo]
+
+[logo]: https://github.com/omersch381/Pert---Critical-Path/blob/master/PERT.JPG
