@@ -8,11 +8,11 @@ if __name__ == '__main__':
     g.add_activity("Task9", 5, 'Start', 'C1')
     g.add_activity("Task5", 6, 'Start', 'B')
     g.add_activity("Priority1", 0, 'A', 'B')
-    g.add_activity("Task2", 2, 'B', 'D')  # false
+    g.add_activity("Task2", 2, 'B', 'D')
     g.add_activity("Priority3", 0, 'D', 'C2')
     g.add_activity("Priority2", 0, 'D', 'C1')
     g.add_activity("Task3", 2, 'D', 'F')
-    g.add_activity("Task8", 5, 'D', 'E')  # false
+    g.add_activity("Task8", 5, 'D', 'E')
     g.add_activity("Task10", 8, 'D', 'End')
     g.add_activity("Task6", 4, 'C1', 'C2')
     g.add_activity("Priority5", 0, 'E', 'C2')
